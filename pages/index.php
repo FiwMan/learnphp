@@ -40,6 +40,7 @@
         <h1 style="color : white; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
         <p>ตรงนี้คืออะไรว่ะ</p>
         <P class="font">ตรงนี้ด้วย</P>
+        <p>test</p>
       </div>
     </div>
 </body>
