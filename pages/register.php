@@ -25,6 +25,9 @@
         <li class="nav-item">
           <a class="nav-link" href="test.php">test</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="test2.php">test2</a>
+        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
