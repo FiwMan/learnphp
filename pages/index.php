@@ -39,10 +39,12 @@
 </head>
 <body>
     <div class="container">
-      <div class="text blur">
-        <h1 style="color : white; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
-        <p>ตรงนี้คืออะไรว่ะ</p>
-        <P class="font">ตรงนี้ด้วย</P>
+      <div class="row">
+        <div class="text blur">
+          <h1 style="color : white; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
+          <p>ตรงนี้คืออะไรว่ะ</p>
+          <P class="font">ตรงนี้ด้วย</P>
+        </div>
       </div>
     </div>
 </body>
