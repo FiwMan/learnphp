@@ -41,9 +41,9 @@
     <div class="container">
       <div class="row">
         <div class="text blur">
-          <h1 style="color : white; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
-          <p>ตรงนี้คืออะไรว่ะ</p>
-          <P class="font">ตรงนี้ด้วย</P>
+          <h1 style="color : black; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat eligendi voluptatum eaque, molestiae sed dolor facilis officia? Vero quidem molestiae consequuntur nisi. Nam.</p>
+          <bottum href=""></bottum>
         </div>
       </div>
     </div>
