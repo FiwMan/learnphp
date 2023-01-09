@@ -1,17 +1,21 @@
-body{
+/* body{
     background-image: url(https://watermark.lovepik.com/photo/20211204/large/lovepik-two-people-discussing-work-picture_501524089.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     width: 100%;
     background-size: cover;
    
-}
+} */
 .container{
     border: 1px solid red;
     display:flex;
     justify-content: center;
     align-items: center;
     height: 800px;
+}
+
+.card{
+    border: solid 1px red;
 }
 .div{
     /* display:flex; */
