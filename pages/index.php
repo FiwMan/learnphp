@@ -64,5 +64,9 @@
         <small class="text-muted">9 mins</small>
       </div>
     </div>
+    
+    <footer>
+      <p>copyright</p>
+    </footer>
 </body>
 </html>
