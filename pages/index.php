@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>leanrphp</title>
-    <link rel='stylesheet' href='../css/background.css'>
     <link rel='stylesheet' href='../css/test.css'>
     <link rel='stylesheet' href='../bootstrap-5.0.2-dist/css/bootstrap.min.css'>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -38,23 +37,35 @@
 </nav>
 </head>
 <body>
+
+
   <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
     <div class="container">
-      <!-- <div class="row"> -->
-        <div class="box blur">
-          <h1>เว็บสารพัดจ้าง</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat</p>
-          <button><a style="list-style : none" href="test2.php">หางาน</a></button>
-        </div>
-        <div class="box blur">
-          <div class="font">
-            <h1>เกี่ยวกับพวกเรา</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat</p>
+      <div class="col">
+        <div class="box">
+          <div class="content">
+            <h1>เว็บสารพัดจ้าง</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
             <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+          </div>
         </div>
+
+        <div class="box">
+          <div class="content">
+            <h1>เว็บสารพัดจ้าง</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
+            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+          </div>
         </div>
-        
-      <!-- </div> -->
+
+        <div class="box">
+          <div class="content">
+            <h1>เว็บสารพัดจ้าง</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
+            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+          </div>
+        </div>
+      </div>
     </div>
 </body>
 </html>
