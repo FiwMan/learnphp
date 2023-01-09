@@ -48,9 +48,9 @@
         </div>
         <div class="box blur">
           <div class="font">
-          <h1 style="color : black; font-size : 60px; ">เกี่ยวกับพวกเรา</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat eligendi voluptatum eaque, molestiae sed dolor facilis officia? Vero quidem molestiae consequuntur nisi. Nam.</p>
-          <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+            <h1>เกี่ยวกับพวกเรา</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat</p>
+            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
         </div>
         </div>
         
