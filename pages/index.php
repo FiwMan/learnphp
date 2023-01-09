@@ -41,30 +41,34 @@
 
   <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
     <div class="container">
-      <div class="col">
-        <div class="box">
+      <div class="grid">
+        <div class="box1">
           <div class="content">
             <h1>เว็บสารพัดจ้าง</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
             <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+            <small class="text-muted">9 mins</small>
           </div>
         </div>
 
-        <div class="box">
+        <div class="box2">
           <div class="content">
             <h1>เว็บสารพัดจ้าง</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
             <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+            <small class="text-muted">9 mins</small>
           </div>
         </div>
 
-        <div class="box">
+        <div class="box3">
           <div class="content">
             <h1>เว็บสารพัดจ้าง</h1>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
             <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+            <small class="text-muted">9 mins</small>
           </div>
         </div>
+        <button><a style="list-style : none" href="test2.php">หางาน</a></button>
       </div>
     </div>
 </body>
