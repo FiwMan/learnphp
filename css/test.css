@@ -57,6 +57,7 @@ body{
 .grid{
     display:grid;
     justify-content: center;
+    background-color: antiquewhite;
     
 }
 
