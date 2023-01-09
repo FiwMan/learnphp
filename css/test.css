@@ -34,12 +34,17 @@
         background-color: rgba(255, 255, 255, 0.4); 
         border-radius: 0.25rem;
 }
-.text {
+.box {
+    width: 500px;
+    height: 500px;
     text-align: center;
+    justify-content: center;
     border: solid 1px red;
-    font-size:30px;
+    font-size:15px;
 }
-
+.font{
+    /* font-family: 'Courier New', Courier, monospace; */
+}
 .ul li a{
     display: flex;
     width: 100px;

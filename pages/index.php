@@ -38,14 +38,23 @@
 </nav>
 </head>
 <body>
+  <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
     <div class="container">
-      <div class="row">
-        <div class="text blur">
-          <h1 style="color : black; font-size : 60px; ">เว็บสารพัดจ้าง</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat eligendi voluptatum eaque, molestiae sed dolor facilis officia? Vero quidem molestiae consequuntur nisi. Nam.</p>
-          <button href="test2.php">หางาน</button>
+      <!-- <div class="row"> -->
+        <div class="box blur">
+          <h1>เว็บสารพัดจ้าง</h1>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat</p>
+          <button><a style="list-style : none" href="test2.php">หางาน</a></button>
         </div>
-      </div>
+        <div class="box blur">
+          <div class="font">
+          <h1 style="color : black; font-size : 60px; ">เกี่ยวกับพวกเรา</h1>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi dolorem libero reprehenderit repellat eligendi voluptatum eaque, molestiae sed dolor facilis officia? Vero quidem molestiae consequuntur nisi. Nam.</p>
+          <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+        </div>
+        </div>
+        
+      <!-- </div> -->
     </div>
 </body>
 </html>
