@@ -38,37 +38,30 @@
 </head>
 <body>
 
-
   <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
     <div class="container">
       <div class="grid">
         <div class="box1">
           <div class="content">
-            <h1>เว็บสารพัดจ้าง</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
-            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
-            <small class="text-muted">9 mins</small>
+            <h3 style="text-align: center">ประเภทงาน</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur</p>
           </div>
         </div>
 
         <div class="box2">
           <div class="content">
-            <h1>เว็บสารพัดจ้าง</h1>
+            <h3 id="H3" style="text-align: center">เนื้อหางาน</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
-            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
-            <small class="text-muted">9 mins</small>
           </div>
         </div>
 
         <div class="box3">
-          <div class="content">
-            <h1>เว็บสารพัดจ้าง</h1>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
-            <button><a style="list-style : none" href="test2.php">หางาน</a></button>
-            <small class="text-muted">9 mins</small>
+          <div style="justify-items: center" class="content">
+            <h3 style="text-align: center">รูปภาพที่เกี่ยวข้อง</h3>
           </div>
         </div>
-        <button><a style="list-style : none" href="test2.php">หางาน</a></button>
+        <button class="button"><a style="list-style : none" href="test2.php">เพิ่มเติม</a></button>
+        <small class="text-muted">9 mins</small>
       </div>
     </div>
 </body>
