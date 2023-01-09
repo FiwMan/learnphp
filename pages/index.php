@@ -39,7 +39,7 @@
 <body>
 
   <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
-    <div class="container">
+    <div class="container main-content">
       <div class="grid">
         <div class="box1">
           <div class="content">
@@ -50,7 +50,7 @@
 
         <div class="box2">
           <div class="content">
-            <h3 id="H3" style="text-align: center">เนื้อหางาน</h3>
+            <h3 style="text-align: center">เนื้อหางาน</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
           </div>
         </div>
@@ -66,7 +66,7 @@
     </div>
     
     <footer>
-      <p>copyright</p>
+      <p>copyright 2024</p>
     </footer>
 </body>
 </html>
