@@ -28,11 +28,11 @@
 <body>
 <div class="container">
     <div class="content">
+    <h1>รายระเอียดผู้รับจ้าง</h1>
       <div class="ct-img">
           <img src="https://www.mangozero.com/wp-content/uploads/2021/05/taro-web-1080x630.jpg"   alt="something">
      </div>
         <div class="title">
-          <h1>รายระเอียดผู้รับจ้าง</h1>
           <h2>ชื่อ-นามสกุล</h2>
           <h2>ชื่อเล่น</h2>
           <h2>อายุ</h2>
