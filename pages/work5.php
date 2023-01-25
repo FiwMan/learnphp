@@ -16,11 +16,11 @@
         <li>
             <a href='index.php'>LookForWorker</a>
             <ul class='dropdown'>
-                <li><a href='#'>งานทั่วไป</a></li>
-                <li><a href='#'>งานบ้าน</a></li>
-                <li><a href='#'>งานสวน</a></li>
-                <li><a href='#'>งานก่อสร้าง</a></li>
-                <li><a href='#'>งานอื่นๆ</a></li>
+                <li><a href='work1.php'>งานทั่วไป</a></li>
+                <li><a href='work2.php'>งานบ้าน</a></li>
+                <li><a href='work3.php'>งานสวน</a></li>
+                <li><a href='work4.php'>งานก่อสร้าง</a></li>
+                <li><a href='work5.php'>งานอื่นๆ</a></li>
             </ul>
         </li>
         <li><a href='aboutus.php'>aboutus</a></li>

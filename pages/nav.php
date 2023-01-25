@@ -15,7 +15,7 @@
             <ul class='dropdown'>
                 <li><a href='work1.php'>งานทั่วไป</a></li>
                 <li><a href='work2.php'>งานบ้าน</a></li>
-                <li><a href='work3.php'>งานส่วน</a></li>
+                <li><a href='work3.php'>งานสวน</a></li>
                 <li><a href='work4.php'>งานก่อสร้าง</a></li>
                 <li><a href='work5.php'>งานอื่นๆ</a></li>
             </ul>
