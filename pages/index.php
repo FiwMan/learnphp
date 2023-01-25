@@ -5,68 +5,111 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>leanrphp</title>
-    <link rel='stylesheet' href='../css/test.css'>
+    <link rel='stylesheet' href='../css/newpage.css'>
+    <link rel='stlyesheet' href='../css/main.css'>
     <link rel='stylesheet' href='../bootstrap-5.0.2-dist/css/bootstrap.min.css'>
+
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">Homepage</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link" href="register.php">register</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="contactus.php">ContactUs</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="test.php">test</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="test2.php">test2</a>
-        </li>
-      </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="homepage.php">Home</a>
+        <a class="nav-link" href="index.php">LookForWorker</a>
+        <a class="nav-link" href="aboutus.php">AboutUs</a>
+        <a class="nav-link" href="register.php">Register</a>
+        <a class="nav-link" href="login.php">Login</a>
+      </div>
     </div>
   </div>
 </nav>
 </head>
 <body>
-
-  <h1 style="text-align: center">เว็บสารพัดจ้าง</h1>
-    <div class="container main-content">
-      <div class="grid">
-        <div class="box1">
-          <div class="content">
-            <h3 style="text-align: center">ประเภทงาน</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur</p>
-          </div>
+  <h1 style='text-align:center;'>งานบ้าน</h1>
+  <div class="container">
+  <div class="row box p-4">
+    <div class="col-md-3 ">
+      <div class="card" style="width: 18rem;">
+          <img src="https://e7.pngegg.com/pngimages/601/884/png-clipart-pony-princess-celestia-rarity-pinkie-pie-twilight-sparkle-my-little-pony-horse-purple-thumbnail.png" class="card-img-top" alt="again">
+            <div class="card-body">
+          <h5 class="card-title">สมหญิง</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
-
-        <div class="box2">
-          <div class="content">
-            <h3 style="text-align: center">เนื้อหางาน</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque omnis, cum sequi   dolorem libero reprehenderit repellat</p>
-          </div>
-        </div>
-
-        <div class="box3">
-          <div style="justify-items: center" class="content">
-            <h3 style="text-align: center">รูปภาพที่เกี่ยวข้อง</h3>
-          </div>
-        </div>
-        <button class="button"><a style="list-style : none" href="test2.php">เพิ่มเติม</a></button>
-        <small class="text-muted">9 mins</small>
       </div>
     </div>
-    
-    <footer>
-      <p>copyright 2024</p>
-    </footer>
+      <div class="col-md-3 ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://www.mangozero.com/wp-content/uploads/2021/05/taro-web-1080x630.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="info-contractor.php" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+      <div class="col-md-3 ">
+      <div class="card" style="width: 18rem;">
+          <img src="https://1417094351.rsc.cdn77.org/articles/3644/3643604/thumbnail/large.gif?1" class="card-img-top" alt="dont know">
+            <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+       </div>
+       <div class="col-md-3  ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://pbs.twimg.com/profile_images/859300925646753792/AL0Hf7Hm_400x400.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://pbs.twimg.com/profile_images/859300925646753792/AL0Hf7Hm_400x400.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://www.mangozero.com/wp-content/uploads/2021/05/taro-web-1080x630.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://www.mangozero.com/wp-content/uploads/2021/05/taro-web-1080x630.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3 ">
+        <div class="card" style="width: 18rem;">
+          <img src="https://pbs.twimg.com/profile_images/859300925646753792/AL0Hf7Hm_400x400.jpg" class="card-img-top" alt="something">
+            <div class="card-body">
+          <h5 class="card-title">รูปสุดหล่อ</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk  of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+ 
 </body>
 </html>

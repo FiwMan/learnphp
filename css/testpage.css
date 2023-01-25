@@ -1,0 +1,16 @@
+.flexbox {
+    max-width: 100%;
+    height: 500px;
+    border: solid 1px red;
+    display: flex;
+    justify-content: center;
+}
+.box {
+    align-items: center;
+    width: 50%;
+}
+.content {
+    text-align: center;
+    align-items: center;
+    padding: 1rem;
+}

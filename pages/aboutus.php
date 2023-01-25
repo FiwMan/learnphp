@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stlyesheet' href='../css/main.css'>
     <link rel='stylesheet' href='../bootstrap-5.0.2-dist/css/bootstrap.min.css'>
-    <title>Register</title>
-
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <title>AboutUs</title>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
@@ -23,9 +23,9 @@
 </nav>
 </head>
 <body>
-    <div class="container">
-        <div class="content">
-            <h1>Register</h1>
+    <div class="container" style='text-align:center;'>
+        <div class="profile">
+            <h1>ContactUs</h1>
         </div>
     </div>
 </body>

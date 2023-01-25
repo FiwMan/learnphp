@@ -3,26 +3,24 @@ html {
 }
 
 body{
-    /* background-image: url(https://watermark.lovepik.com/photo/20211204/large/lovepik-two-people-discussing-work-picture_501524089.jpg);
-    background-repeat: no-repeat;
-    background-size: auto;
-    width: 100%;
-    background-size: cover; */
     background-color: rgb(51, 29, 4);
-    display: flex;
-    flex-direction: column;
+    /* display: flex; */
+    /* flex-direction: column; */
     height: 100%;
+    position: relative;
    
 }
-.container{
+/* .container{
     border: solid 1px red;
     height: 600px;
     background-color: rgba(red, green, blue, alpha);
     backdrop-filter: blur(10px);
-}
+} */
 .box1{
+    display:block;
     margin-top: 1rem;
-    /* margin-bottom:1rem; */
+    margin-bottom:1rem;
+    box-sizing: border-box;
     border:solid 1px red;
     width: 550px;
     height: 90px;
@@ -34,7 +32,7 @@ body{
     margin-top: 1rem;
     border:solid 1px red;
     width: 550px;
-    height: 90;
+    height: 90px;
     background-color: rgb(57, 142, 253);
 
     
@@ -57,7 +55,10 @@ body{
 .grid{
     display:grid;
     justify-content: center;
-    background-color: antiquewhite;
+    background-color: #2d75b1;
+    border: solid 1px red;
+    margin:auto;
+    width:550px;
     
 }
 
@@ -74,11 +75,57 @@ body{
 }
 
 
+
+aside{
+    background-color:#772d2d;
+    float:right;
+    margin:10px;
+    width:25%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: absolute;
+    right:0px;
+    top:150px;
+
+}
+aside h2 {
+    text-align:center;
+    background-color:#cfa6a6;
+    color: rgb(124, 95, 95);
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+aside ul {
+    list-style: none;
+    margin-left:-32px;
+}
+aside ul li {
+
+}
+aside ul li a {
+    text-indent: 10px;
+    display:block;
+}
+aside ul li a:link,
+aside ul li a:visited{
+    text-decoration: none;
+    color:#fff;
+    font-size:1.1rem;
+    padding:10px;
+    transition: all 0.5;
+}
+aside ul li :hover,
+aside ul li :active{
+    text-indent:20px;
+    background-color:#cfcfcf;
+}
+
 footer{
     text-align:center;
     justify-items: center;
     color:white;
-    padding:2rem;
+    padding:5px;
     background-color: black;
     flex: 0 0 auto;
 }

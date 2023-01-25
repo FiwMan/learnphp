@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' href='../bootstrap-5.0.2-dist/css/bootstrap.min.css'>
-    <title>Register</title>
+    <title>Homepage</title>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -23,9 +23,10 @@
 </nav>
 </head>
 <body>
+<h1>Homepage</h1>
     <div class="container">
         <div class="content">
-            <h1>Register</h1>
+            
         </div>
     </div>
 </body>
