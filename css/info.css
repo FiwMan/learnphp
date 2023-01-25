@@ -1,13 +1,6 @@
-.contai-ct{
-    width: 50%;
-}
 .ct-img {
-    align-items: center;
+   width: 10%;
 }
-.title {
-    align-items: center;
-}
-
-img {
-    width: 40%;
+.info-ct {
+    text-align: center;
 }

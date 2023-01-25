@@ -6,24 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' href='../bootstrap-5.0.2-dist/css/bootstrap.min.css'>
     <link rel='stlyesheet' href='../css/main.css'>
+    <link rel='stylesheet' href='../css/nav.css'>
     <title>Homepage</title>
-
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <div class="container-fluid">
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="homepage.php">Home</a>
-        <a class="nav-link" href="index.php">LookForWorker</a>
-        <a class="nav-link" href="aboutus.php">AboutUs</a>
-        <a class="nav-link" href="register.php">Register</a>
-        <a class="nav-link" href="login.php">Login</a>
-
-      </div>
-    </div>
-  </div>
-</nav>
 </head>
 <body>
+    <ul>
+        <li><a href='homepage.php'>Home</a></li>
+        <li>
+            <a href='index.php'>LookForWorker</a>
+            <ul class='dropdown'>
+                <li><a href='#'>งานทั่วไป</a></li>
+                <li><a href='#'>งานบ้าน</a></li>
+                <li><a href='#'>งานสวน</a></li>
+                <li><a href='#'>งานก่อสร้าง</a></li>
+                <li><a href='#'>งานอื่นๆ</a></li>
+            </ul>
+        </li>
+        <li><a href='aboutus.php'>aboutus</a></li>
+        <li><a href='register.php'>Register</a></li>
+        <li><a href='login.php'>Login</a></li>
+    </ul>
 <h1>Homepage</h1>
     <div class="container">
         <div class="content">
